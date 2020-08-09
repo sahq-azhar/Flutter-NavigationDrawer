@@ -33,7 +33,10 @@ This App contains Navigation Drawer with pages linked
 <br>
 
 **⭐ The repo**
+
 <br>
 <br>
+
+ ☕[Here is the JAVA version](https://github.com/sahq-azhar/Android-Sliding_Tabs_with_NavigationDrawer)
 
 **Eat, Sleep, CODE, Repeat!**
