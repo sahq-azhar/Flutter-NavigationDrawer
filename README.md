@@ -1,4 +1,4 @@
-# Flutter Navigation Drawer[level: Beginner]
+# Flutter Navigation Drawer [level: Beginner]
 
 
 One of the most used layout for organized and minimal display using Flutter
