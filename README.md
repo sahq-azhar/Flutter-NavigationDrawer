@@ -21,7 +21,11 @@ This App contains Navigation Drawer with pages linked
 <td><img src="https://i.ibb.co/XkFFTFC/Screenshot-20200810-001247.png" width="300"></td>
 </tr>
 </table>
+<br>
 
+ ☕[Here is the JAVA version](https://github.com/sahq-azhar/Android-Sliding_Tabs_with_NavigationDrawer)
+ <br>
+ 
 -----------------------------------------------------------------
 
 ![Works with Android](https://img.shields.io/badge/Works_with-Android-green?style=flat-square)
@@ -34,6 +38,6 @@ This App contains Navigation Drawer with pages linked
 
 **⭐ The repo**
 
- ☕[Here is the JAVA version](https://github.com/sahq-azhar/Android-Sliding_Tabs_with_NavigationDrawer)
+
 
 **Eat, Sleep, CODE, Repeat!**
